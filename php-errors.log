@@ -1,0 +1,44 @@
+[25-Sep-2019 16:02:40 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /homepages/19/d795015876/htdocs/hms/index.php:1) in /homepages/19/d795015876/htdocs/hms/index.php on line 4
+[25-Sep-2019 16:03:10 America/New_York] PHP Parse error:  syntax error, unexpected 'ob_start' (T_STRING) in /homepages/19/d795015876/htdocs/hms/index.php on line 4
+[25-Sep-2019 16:04:17 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /homepages/19/d795015876/htdocs/hms/index.php:1) in /homepages/19/d795015876/htdocs/hms/index.php on line 4
+[25-Sep-2019 16:04:55 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /homepages/19/d795015876/htdocs/hms/index.php:1) in /homepages/19/d795015876/htdocs/hms/index.php on line 4
+[25-Sep-2019 16:04:57 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /homepages/19/d795015876/htdocs/hms/index.php:1) in /homepages/19/d795015876/htdocs/hms/index.php on line 4
+[25-Sep-2019 16:05:47 America/New_York] PHP Strict Standards:  phpinfo(): We selected 'America/New_York' for 'EDT/-4.0/DST' instead in /homepages/19/d795015876/htdocs/hms/index.php on line 4
+[25-Sep-2019 16:05:47 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /homepages/19/d795015876/htdocs/hms/index.php:1) in /homepages/19/d795015876/htdocs/hms/index.php on line 5
+[25-Sep-2019 16:11:43 America/New_York] PHP Warning:  include(../inc/connect.php): failed to open stream: No such file or directory in /homepages/19/d795015876/htdocs/hms/index.php on line 3
+[25-Sep-2019 16:11:43 America/New_York] PHP Warning:  include(): Failed opening '../inc/connect.php' for inclusion (include_path='.:/usr/lib/php7.3') in /homepages/19/d795015876/htdocs/hms/index.php on line 3
+[25-Sep-2019 16:11:53 America/New_York] PHP Warning:  include(../inc/connect.php): failed to open stream: No such file or directory in /homepages/19/d795015876/htdocs/hms/index.php on line 3
+[25-Sep-2019 16:11:53 America/New_York] PHP Warning:  include(): Failed opening '../inc/connect.php' for inclusion (include_path='.:/usr/lib/php7.3') in /homepages/19/d795015876/htdocs/hms/index.php on line 3
+[25-Sep-2019 16:11:53 America/New_York] PHP Notice:  Undefined variable: con in /homepages/19/d795015876/htdocs/hms/index.php on line 13
+[25-Sep-2019 16:11:53 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /homepages/19/d795015876/htdocs/hms/index.php on line 13
+[25-Sep-2019 16:11:53 America/New_York] PHP Notice:  Undefined variable: con in /homepages/19/d795015876/htdocs/hms/index.php on line 13
+[25-Sep-2019 16:11:53 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /homepages/19/d795015876/htdocs/hms/index.php on line 13
+[25-Sep-2019 23:20:41 America/New_York] PHP Warning:  include(../inc/connect.php): failed to open stream: No such file or directory in /homepages/19/d795015876/htdocs/hms/index.php on line 3
+[25-Sep-2019 23:20:41 America/New_York] PHP Warning:  include(): Failed opening '../inc/connect.php' for inclusion (include_path='.:/usr/lib/php7.3') in /homepages/19/d795015876/htdocs/hms/index.php on line 3
+[25-Sep-2019 23:24:10 America/New_York] PHP Warning:  include(../inc/connect.php): failed to open stream: No such file or directory in /homepages/19/d795015876/htdocs/hms/index.php on line 3
+[25-Sep-2019 23:24:10 America/New_York] PHP Warning:  include(): Failed opening '../inc/connect.php' for inclusion (include_path='.:/usr/lib/php7.3') in /homepages/19/d795015876/htdocs/hms/index.php on line 3
+[25-Sep-2019 23:24:10 America/New_York] PHP Notice:  Undefined variable: con in /homepages/19/d795015876/htdocs/hms/index.php on line 13
+[25-Sep-2019 23:24:10 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /homepages/19/d795015876/htdocs/hms/index.php on line 13
+[25-Sep-2019 23:24:10 America/New_York] PHP Notice:  Undefined variable: con in /homepages/19/d795015876/htdocs/hms/index.php on line 13
+[25-Sep-2019 23:24:10 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /homepages/19/d795015876/htdocs/hms/index.php on line 13
+[25-Sep-2019 23:29:24 America/New_York] PHP Warning:  include(../inc/connect.php): failed to open stream: No such file or directory in /homepages/19/d795015876/htdocs/hms/index.php on line 3
+[25-Sep-2019 23:29:24 America/New_York] PHP Warning:  include(): Failed opening '../inc/connect.php' for inclusion (include_path='.:/usr/lib/php7.3') in /homepages/19/d795015876/htdocs/hms/index.php on line 3
+[25-Sep-2019 23:29:24 America/New_York] PHP Notice:  Undefined variable: db_connect in /homepages/19/d795015876/htdocs/hms/index.php on line 13
+[25-Sep-2019 23:29:24 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /homepages/19/d795015876/htdocs/hms/index.php on line 13
+[25-Sep-2019 23:29:24 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /homepages/19/d795015876/htdocs/hms/index.php on line 14
+[25-Sep-2019 23:34:57 America/New_York] PHP Warning:  include(../inc/connect.php): failed to open stream: No such file or directory in /homepages/19/d795015876/htdocs/hms/index.php on line 3
+[25-Sep-2019 23:34:57 America/New_York] PHP Warning:  include(): Failed opening '../inc/connect.php' for inclusion (include_path='.:/usr/lib/php7.3') in /homepages/19/d795015876/htdocs/hms/index.php on line 3
+[25-Sep-2019 23:34:57 America/New_York] PHP Notice:  Undefined variable: db_connect in /homepages/19/d795015876/htdocs/hms/index.php on line 13
+[25-Sep-2019 23:34:57 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /homepages/19/d795015876/htdocs/hms/index.php on line 13
+[25-Sep-2019 23:34:57 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /homepages/19/d795015876/htdocs/hms/index.php on line 14
+[25-Sep-2019 23:35:16 America/New_York] PHP Warning:  include(../inc/connect.php): failed to open stream: No such file or directory in /homepages/19/d795015876/htdocs/hms/index.php on line 3
+[25-Sep-2019 23:35:16 America/New_York] PHP Warning:  include(): Failed opening '../inc/connect.php' for inclusion (include_path='.:/usr/lib/php7.3') in /homepages/19/d795015876/htdocs/hms/index.php on line 3
+[25-Sep-2019 23:35:16 America/New_York] PHP Notice:  Undefined variable: db_connect in /homepages/19/d795015876/htdocs/hms/index.php on line 13
+[25-Sep-2019 23:35:16 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /homepages/19/d795015876/htdocs/hms/index.php on line 13
+[25-Sep-2019 23:35:16 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /homepages/19/d795015876/htdocs/hms/index.php on line 14
+[25-Sep-2019 23:37:55 America/New_York] PHP Warning:  include(../inc/connect.php): failed to open stream: No such file or directory in /homepages/19/d795015876/htdocs/hms/index.php on line 3
+[25-Sep-2019 23:37:55 America/New_York] PHP Warning:  include(): Failed opening '../inc/connect.php' for inclusion (include_path='.:/usr/lib/php7.3') in /homepages/19/d795015876/htdocs/hms/index.php on line 3
+[25-Sep-2019 23:37:55 America/New_York] PHP Notice:  Undefined variable: db_connect in /homepages/19/d795015876/htdocs/hms/index.php on line 13
+[25-Sep-2019 23:37:55 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /homepages/19/d795015876/htdocs/hms/index.php on line 13
+[25-Sep-2019 23:37:55 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /homepages/19/d795015876/htdocs/hms/index.php on line 14
+[25-Sep-2019 23:42:39 America/New_York] PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/tmp/.priv) failed: Permission denied (13) in /homepages/19/d795015876/htdocs/hms/index.php on line 2
